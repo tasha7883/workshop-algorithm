@@ -8,11 +8,11 @@ class Step extends Component {
 
     this.state = {
       steps: [
-        'step1',
-        'step2',
-        'step3',
-        'step4',
-        'step5'
+        'get the bread',
+        'get the peanut butter',
+        'get the jelly',
+        'put the peanut butter and jelly on the bread',
+        'eat the peanut butter and jelly sandwhich'
       ],
       index: 0,
       button: 'next'
